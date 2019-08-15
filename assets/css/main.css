@@ -2672,3 +2672,242 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00020a', end
 			}
 
 		}
+
+
+		.container2 {
+			margin-top: 10px;
+			text-align: center;
+			height: 50px;
+			line-height:50px;
+		  }
+	
+			.everlib-logo-first-bar,
+			.everlib-logo-second-bar,
+			.everlib-logo-third-bar,
+			.everlib-logo-fourth-bar,
+			.everlib-logo-fifth-bar, 
+			.everlib-logo-six-bar,
+			.everlib-logo-seventh-bar,
+			.everlib-logo-eighth-bar,
+			.everlib-logo-ninth-bar,
+			.everlib-logo-tenth-bar, 
+			.everlib-logo-elleventh-bar,
+			.everlib-logo-twelfth-bar,
+			.everlib-logo-thirteenth-bar,
+			.everlib-logo-fourteenth-bar,
+			.everlib-logo-fifteenth-bar,
+			.everlib-logo-sixteenth-bar,
+			.everlib-logo-seventeenth-bar,
+			.everlib-logo-eighteenth-bar,
+			.everlib-logo-ninteenth-bar,
+			.everlib-logo-twenty-bar,
+			.everlib-logo-twentyone-bar,
+			.everlib-logo-twentytwo-bar {
+			  display: inline-block;
+			  border-radius: 13px;
+			  width: 4px;
+			  margin-right: 6px;
+			  transition: .7s;
+			  animation: equalize 4s 0s infinite;
+			  animation-timing-function: linear;
+			  vertical-align: bottom;
+
+			}
+			
+			.everlib-logo-first-bar {
+			  height: 40px;
+			  background: #0f87ae;
+			  transition: 0.5s;
+			  animation-delay: -1.9s;
+			}
+			
+			.everlib-logo-second-bar {
+			  height: 40px;
+			  background: #b75690;
+			  animation-delay: -2.9s;
+			}
+			
+			.everlib-logo-third-bar {
+			  height: 40px;
+			  background: #86c035;
+			  animation-delay: -3.9s;
+			}
+			
+			.everlib-logo-fourth-bar {
+			  height: 40px;
+			  background: #F0902E;
+			  animation-delay: -4.9s;
+			}
+
+			.everlib-logo-fifth-bar {
+				height: 40px;
+				background: rgb(242, 123, 4);
+				animation-delay: -4.4s;
+			  }
+			  .everlib-logo-six-bar {
+				height: 40px;
+				background: rgb(255, 255, 255);
+				animation-delay: -3.8s;
+			  }
+			  .everlib-logo-seventh-bar {
+				height: 40px;
+				background: rgb(224, 242, 21);
+				animation-delay: -2.8s;
+			  }
+			  .everlib-logo-eighth-bar {
+				height: 40px;
+				background: rgb(233, 252, 22);
+				animation-delay: -2.5s;
+			  }
+			  .everlib-logo-ninth-bar {
+				height: 40px;
+				background: rgb(240, 252, 22);
+				animation-delay: -2.6s;
+			  }
+
+			  .everlib-logo-tenth-bar {
+				height: 40px;
+				background: rgb(2, 2, 7);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-elleventh-bar {
+				height: 40px;
+				background: rgb(2, 2, 7);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-twelfth-bar {
+				height: 40px;
+				background: rgb(2, 2, 7);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-thirteenth-bar {
+				height: 40px;
+				background: rgb(0, 169, 230);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-fourteenth-bar {
+				height: 40px;
+				background: rgb(0, 114, 155);
+				animation-delay: -3.4s;
+			  }
+			  .everlib-logo-fifteenth-bar {
+				height: 40px;
+				background: rgb(1, 72, 97);
+				animation-delay: -3.7s;
+			  }
+			  .everlib-logo-sixteenth-bar {
+				height: 40px;
+				background: rgb(227, 1, 1);
+				animation-delay: -1.7s;
+			  }
+			  .everlib-logo-seventeenth-bar {
+				height: 40px;
+				background: rgb(164, 0, 0);
+				animation-delay: -3.9s;
+			  }
+			  .everlib-logo-eighteenth-bar {
+				height: 40px;
+				background: rgb(2, 2, 7);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-ninteenth-bar {
+				height: 40px;
+				background: rgb(2, 2, 7);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-twenty-bar {
+				height: 40px;
+				background: rgb(245, 252, 246);
+				animation-delay: -2.6s;
+			  }
+			  .everlib-logo-twentyone-bar {
+				height: 40px;
+				background: rgb(52, 167, 3);
+				animation-delay: -4.2s;
+			  }
+			  .everlib-logo-twentytwo-bar {
+				height: 40px;
+				background: rgb(36, 121, 0);
+				animation-delay: -3.1s;
+			  }
+		  
+		  @keyframes equalize {
+			0% {
+			  height: 48px;
+			}
+			4% {
+			  height: 42px;
+			}
+			8% {
+			  height: 40px;
+			}
+			12% {
+			  height: 30px;
+			}
+			16% {
+			  height: 20px;
+			}
+			20% {
+			  height: 30px;
+			}
+			24% {
+			  height: 40px;
+			}
+			28% {
+			  height: 10px;
+			}
+			32% {
+			  height: 40px;
+			}
+			36% {
+			  height: 48px;
+			}
+			40% {
+			  height: 20px;
+			}
+			44% {
+			  height: 40px;
+			}
+			48% {
+			  height: 48px;
+			}
+			52% {
+			  height: 30px;
+			}
+			56% {
+			  height: 10px;
+			}
+			60% {
+			  height: 30px;
+			}
+			64% {
+			  height: 48px;
+			}
+			68% {
+			  height: 30px;
+			}
+			72% {
+			  height: 48px;
+			}
+			76% {
+			  height: 20px;
+			}
+			80% {
+			  height: 48px;
+			}
+			84% {
+			  height: 38px;
+			}
+			88% {
+			  height: 48px;
+			}
+			92% {
+			  height: 20px;
+			}
+			96% {
+			  height: 48px;
+			}
+			100% {
+			  height: 48px;
+			}
+		  }
