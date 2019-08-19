@@ -3837,7 +3837,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00020a', end
 		and (max-width: 541px) {
 			/* mobile fuck etc */
 .avatar {
-	width: 270px;
+	width: 170px;
 }
 #header .avatar {
 	display: inline-block;
