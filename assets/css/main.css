@@ -3838,10 +3838,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00020a', end
 			/* mobile fuck etc */
 .avatar {
 	width: 270px;
-	margin-left:2px;
 }
 #header .avatar {
 	display: inline-block;
+	margin-right:2px;
 }
 
 		@media only screen and (max-width: 541px) {
