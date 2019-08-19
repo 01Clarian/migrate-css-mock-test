@@ -3833,15 +3833,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00020a', end
 			  }
 
 		}
-		@media only screen and (min-width: 320px) {
-			/* mobile fuck etc */
-.avatar {
-	width: 270px;
-	margin-left:1px;
-}
-#header .avatar {
-	display: inline-block;
-}
+
 
 		@media only screen and (max-width: 541px) {
 			/* mobile fuck etc */
