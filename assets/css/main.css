@@ -5427,6 +5427,611 @@ height: 71px;
 }
 
 
+
+@media only screen and (max-width: 300px) {
+	/* mobile fuck etc */
+.avatar {
+width: 270px;
+}
+#header .avatar {
+display: inline-block;
+}
+
+#header .avatar img {
+position: relative;
+margin-bottom: -47px;
+width: 270px;
+
+
+}
+
+
+.container2 {
+
+text-align: center;
+height: 70px;
+}
+.everlib-logo-first-bar,
+.everlib-logo-second-bar,
+.everlib-logo-third-bar,
+.everlib-logo-fourth-bar,
+.everlib-logo-fifth-bar, 
+.everlib-logo-six-bar,
+.everlib-logo-seventh-bar,
+.everlib-logo-eighth-bar,
+.everlib-logo-ninth-bar,
+.everlib-logo-tenth-bar, 
+.everlib-logo-elleventh-bar,
+.everlib-logo-twelfth-bar,
+.everlib-logo-thirteenth-bar,
+.everlib-logo-fourteenth-bar,
+.everlib-logo-fifteenth-bar,
+.everlib-logo-sixteenth-bar,
+.everlib-logo-seventeenth-bar,
+.everlib-logo-eighteenth-bar,
+.everlib-logo-ninteenth-bar,
+.everlib-logo-twenty-bar,
+.everlib-logo-twentyone-bar,
+.everlib-logo-twentytwo-bar,
+.everlib-logo-twenty-three,
+.everlib-logo-twenty-four,
+.everlib-logo-twenty-five,
+.everlib-logo-twenty-six,
+.everlib-logo-twenty-seven, 
+.everlib-logo-twenty-eight,
+.everlib-logo-twenty-nine,
+.everlib-logo-thirty,
+.everlib-logo-thirty-one,
+.everlib-logo-thirty-two, 
+.everlib-logo-thirty-three,
+.everlib-logo-thirty-four,
+.everlib-logo-thirty-five,
+.everlib-logo-thirty-six,
+.everlib-logo-thirty-seven,
+.everlib-logo-thirty-eight,
+.everlib-logo-thirty-nine,
+.everlib-logo-forty,
+.everlib-logo-forty-one,
+.everlib-logo-forty-two,
+.everlib-logo-forty-three,
+.everlib-logo-forty-four,
+.everlib-logo-forty-five,
+.everlib-logo-forty-six,
+.everlib-logo-forty-seven,
+.everlib-logo-forty-eight,
+.everlib-logo-forty-nine,
+.everlib-logo-fifty,
+.everlib-logo-space,
+.everlib-logo-spacem,
+.everlib-logo-spacem2,
+.everlib-logo-spacem3 {
+display: inline-block;
+width: .93px;
+margin:-0.5px;
+transition: .5s;
+animation: equalize 6s 2s infinite;
+animation-timing-function: linear;
+vertical-align: top;
+}
+.everlib-logo-spacem {
+height: 40px;
+background: #020204;
+animation-delay: -3.8s;
+width: .6px;
+}
+.everlib-logo-spacem3 {
+height: 40px;
+background: #020204;
+animation-delay: -3.8s;
+width: .4px;
+margin-left: 4px;
+}
+
+
+.everlib-logo-first-bar {
+height: 20%;
+background: #eb8fd9;
+transition: 0.5s;
+animation-delay: -1.9s;
+margin-top:5px;
+
+}
+
+.everlib-logo-second-bar {
+height: 4px;
+background: #e156c5;
+width: 2px;
+margin:-2px;
+animation-delay: -2.9s;
+margin-top:5px;
+
+}
+
+.everlib-logo-third-bar {
+height: 40px;
+background: #fffdff;
+animation-delay: -3.9s;
+margin-top:5px;
+
+
+}
+
+.everlib-logo-fourth-bar {
+height: 40px;
+background: #e94ec5;
+margin:-1px;
+width: 1.2px;
+animation-delay: -4.9s;
+margin-top:5px;
+
+}
+
+.everlib-logo-fifth-bar {
+height: 40px;
+background: #ffbef0;
+animation-delay: -4.4s;
+margin-top:7px;
+margin-right:5px;
+
+
+}
+.everlib-logo-spacem {
+height: 40px;
+background: #020204;
+animation-delay: -3.8s;
+width: .2px;
+margin:-1px;
+margin-top:-5px;
+
+}
+
+.everlib-logo-six-bar {
+height: 40px;
+background: #f43a81;
+animation-delay: -3.8s;
+margin-top:-25px;
+margin:-1px;
+
+
+}
+.everlib-logo-seventh-bar {
+height: 40px;
+background: #ed161a;
+width:1.3px;
+animation-delay: -2.8s;
+margin:-1px;
+margin-top:-25px;
+}
+.everlib-logo-eighth-bar {
+height: 40px;
+background: rgb(255, 255, 255);
+animation-delay: -2.5s;
+margin:-2px;
+margin-top:-25px;
+
+}
+.everlib-logo-ninth-bar {
+height: 40px;
+background: #f04346;
+animation-delay: -2.6s;
+margin:-1px;
+margin-top:-25px;
+width:1.3px;
+
+}
+
+.everlib-logo-tenth-bar {
+height: 40px;
+width:1.3px;
+
+background: #f9b0b1;
+animation-delay: -2.6s;
+margin-right: -15px;
+margin-top:-25px;
+
+}
+.everlib-logo-elleventh-bar {
+height: 40px;
+background: rgb(46, 173, 227);
+width:1px;
+margin-left: 20.7px;
+
+animation-delay: -2.6s;
+}
+.everlib-logo-twelfth-bar {
+height: 40px;
+width:1px;
+background: rgb(42, 135, 206);
+animation-delay: -2.6s;
+margin:-1px;
+
+}
+.everlib-logo-thirteenth-bar {
+height: 40px;
+background: rgb(250, 252, 252);
+animation-delay: -2.6s;
+margin:-1px;
+
+}
+.everlib-logo-fourteenth-bar {
+height: 40px;
+width:1px;
+background: rgb(0, 114, 155);
+animation-delay: -3.4s;
+}
+.everlib-logo-fifteenth-bar {
+height: 40px;
+width:1px;
+
+background: rgb(104, 189, 242);
+animation-delay: -3.7s;
+}
+.everlib-logo-sixteenth-bar {
+height: 40px;
+width:1px;
+background: rgb(255, 250, 116);
+animation-delay: -1.7s;
+margin-top:7px;
+
+}
+.everlib-logo-seventeenth-bar {
+height: 40px;
+width:1px;
+background: rgb(249, 243, 69);
+animation-delay: -3.9s;
+margin:-1px;
+margin-top:5px;
+
+}
+.everlib-logo-eighteenth-bar {
+height: 40px;
+background: rgb(255, 255, 255);
+animation-delay: -2.6s;
+margin:-1px;
+margin-top:-5px;
+
+}
+.everlib-logo-ninteenth-bar {
+height: 40px;
+width:1px;
+background: rgb(249, 243, 69);
+margin-top: -15px;				
+animation-delay: -1.6s;
+margin-top:-5px;
+
+}
+.everlib-logo-twenty-bar {
+height: 40px;
+background: rgb(255, 250, 116);
+animation-delay: -2.6s;
+margin-top:-5px;
+margin-right: 4px;
+
+}
+.everlib-logo-twentyone-bar {
+height: 40px;
+background: rgb(0, 0, 0);
+animation-delay: -4.2s;
+margin-top:-7px;
+
+
+}
+.everlib-logo-twentytwo-bar {
+height: 40px;
+width: 1px;
+background: rgb(136, 26, 159);
+animation-delay: -3.1s;
+margin-top:-27px;
+margin:-1px;
+
+
+}
+
+.everlib-logo-twenty-three {
+height: 20%;
+background: #feffff;
+transition: 0.5s;
+margin:-1px;
+margin-top:-27px;
+
+
+animation-delay: -1.9s;
+}
+
+.everlib-logo-twenty-four {
+height: 4px;
+background: rgb(133, 57, 148);
+animation-delay: -2.9s;
+margin-top:3px;
+
+}
+
+.everlib-logo-spacem {
+height: 40px;
+background: #020204;
+animation-delay: -3.8s;
+width: 1.1px;
+margin:-1px;
+}
+
+.everlib-logo-twenty-five {
+height: 40px;
+background: rgb(191, 138, 201);
+animation-delay: -3.9s;
+margin-top:7px;
+margin-right: 12px;
+
+
+}
+
+.everlib-logo-twenty-six {
+height: 40px;
+background: rgb(27, 155, 89);
+animation-delay: -4.9s;
+margin:-1px;
+
+}
+
+.everlib-logo-twenty-seven {
+  height: 40px;
+  background: rgb(17, 106, 60);
+  width:3.2px;
+  animation-delay: -4.4s;
+}
+.everlib-logo-twenty-eight {
+  height: 40px;
+  background: rgb(255, 255, 255);
+  animation-delay: -3.8s;
+  margin:-1px;
+
+}
+.everlib-logo-twenty-nine {
+  height: 40px;
+  background: rgb(34, 157, 93);
+  animation-delay: -2.8s;
+}
+.everlib-logo-thirty {
+  height: 40px;
+  background: rgb(63, 220, 139);
+  animation-delay: -2.2s;
+}
+.everlib-logo-thirty-one {
+  height: 40px;
+  background: rgb(245, 119, 241);
+  animation-delay: -1.6s;
+}
+
+.everlib-logo-thirty-two {
+  height: 40px;
+  background: rgb(235, 114, 207);
+  animation-delay: -2.2s;
+  margin:-1px;
+
+}
+.everlib-logo-thirty-three {
+  height: 40px;
+  background: rgb(249, 249, 255);
+  animation-delay: -3.7s;
+  margin:-1px;
+
+}
+.everlib-logo-thirty-four {
+  height: 40px;
+  background: rgb(245, 119, 241);
+  animation-delay: -4.1s;
+  margin:-2px;
+
+}
+.everlib-logo-thirty-five {
+  height: 40px;
+  background: rgb(245, 153, 242);
+  animation-delay: -2.6s;
+  margin-right: 13px;
+
+}
+.everlib-logo-thirty-six {
+  height: 40px;
+  background: rgb(255, 137, 145);
+  animation-delay: -3.4s;
+  margin:-2px;
+}
+.everlib-logo-thirty-seven {
+  height: 40px;
+  background: rgb(187, 13, 25);
+  animation-delay: -3.7s;
+}
+.everlib-logo-thirty-eight {
+  height: 40px;
+  background: rgb(254, 223, 225);
+  animation-delay: -1.7s;
+}
+.everlib-logo-thirty-nine {
+  height: 40px;
+  background: rgb(250, 93, 93);
+  animation-delay: -3.9s;
+  margin:-1px;
+
+}
+.everlib-logo-forty {
+  height: 40px;
+  background: rgb(255, 135, 135);
+  animation-delay: -2.6s;
+  margin:-1px;
+
+}
+.everlib-logo-forty-one {
+  height: 40px;
+  background: rgb(15, 165, 230);
+  width:1px;
+  animation-delay: -2.6s;
+}
+.everlib-logo-forty-two {
+  height: 40px;
+  width:3.2px;
+  background: rgb(38, 97, 199);
+  animation-delay: -2.6s;
+  margin:-1px;
+
+}
+.everlib-logo-forty-three {
+  height: 40px;
+  background: rgb(255, 255, 255);
+  animation-delay: -4.2s;
+  margin:-1px;
+  margin-top:-37px;
+
+}
+.everlib-logo-forty-four {
+  height: 40px;
+  width:1px;
+  background: rgb(33, 103, 177);
+  animation-delay: -3.1s;
+  margin-top:-37px;
+  margin:-2px;
+
+
+}
+.everlib-logo-forty-five {
+	height: 40px;
+	background: rgb(139, 187, 238);
+	animation-delay: -1.7s;
+	margin-top:-42px;
+	margin-right: 19px;
+
+  }
+  .everlib-logo-space{
+	height: 40px;
+	width:0.4px;
+	background: rgb(2, 2, 6);
+	animation-delay: -4.2s;
+  }
+  .everlib-logo-forty-six {
+	height: 40px;
+	width:1px;
+	background: rgb(255, 250, 104);
+	animation-delay: -3.9s;
+	margin-top:-14px;
+
+  }
+  .everlib-logo-forty-seven {
+	width:2px;
+	background: rgb(238, 232, 49);
+	height: 40px;
+	animation-delay: -2.6s;
+	margin-top:-14px;
+
+  }
+  .everlib-logo-forty-eight {
+	height: 40px;
+	background: rgb(255, 255, 255);
+	animation-delay: -2.6s;
+	margin-top:-14px;
+
+  }
+  .everlib-logo-forty-nine {
+	height: 40px;
+	width:1px;
+	background: rgb(238, 232, 49);
+	animation-delay: -2.6s;
+	margin-top:-14px;
+
+  }
+  .everlib-logo-fifty{
+	height: 40px;
+	width:2px;
+	background: rgb(255, 250, 104);
+	animation-delay: -4.2s;
+	margin-top:-14px;
+	margin-right: -22px;
+
+  }
+
+
+
+@keyframes equalize {
+0% {
+height: 71px;
+}
+4% {
+height: 59px;
+}
+8% {
+height: 55px;
+}
+12% {
+height: 35px;
+}
+16% {
+height: 15px;
+}
+20% {
+height: 35px;
+}
+24% {
+height: 55px;
+}
+28% {
+height: -5px;
+}
+32% {
+height: 55px;
+}
+36% {
+height: 71px;
+}
+40% {
+height: 25px;
+}
+44% {
+height: 55px;
+}
+48% {
+height: 71px;
+}
+52% {
+height: 35px;
+}
+56% {
+height: -5px;
+}
+60% {
+height: 35px;
+}
+64% {
+height: 71px;
+}
+68% {
+height: 35px;
+}
+72% {
+height: 71px;
+}
+76% {
+height: 15px;
+}
+80% {
+height: 71x;
+}
+84% {
+height: 51px;
+}
+88% {
+height: 71px;
+}
+92% {
+height: 15px;
+}
+96% {
+height: 71px;
+}
+100% {
+height: 71px;
+}
+}
+
+}
+
+
 		  
 #player {
 	height: 0;
